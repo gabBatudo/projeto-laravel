@@ -96,7 +96,7 @@
                     </td>
                     <td>
                         <div class="card" style="width: 18rem;">
-                            <img src="https://scontent.fvcp1-1.fna.fbcdn.net/v/t39.30808-6/217742408_4410459802305625_991622417935550031_n.jpg?_nc_cat=111&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=ElC8OUSxQTQAX-Tnncx&_nc_ht=scontent.fvcp1-1.fna&oh=00_AT8eDTDZwK28YWXl39_czSR-WtoLYyxpsIxKIY-6l_kOBg&oe=6288267E" class="card-img-top" alt="..." style="width: 255px; align-self:center">
+                            <img src="https://scontent.fvcp1-1.fna.fbcdn.net/v/t1.18169-9/11742665_999779940040312_5799497201335385296_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEJHY7yfKAMspunVFbEX4CNAgqQ1H-jkXACCpDUf6ORcJa4N3mlmrCSnY6pgrVQhf5mbDvu1bJpsJch5rQWQi8E&_nc_ohc=4aRB8seS664AX8q0vEi&tn=6hJMyPNk4MMoT3ED&_nc_ht=scontent.fvcp1-1.fna&oh=00_AT9uwS-Wqt_pxeMUFOUnszjvuia1MP7CzLzwlHZ5lJ-9ow&oe=62B1885C" class="card-img-top" alt="..." style="width: 255px; align-self:center">
                             <div class="card-body">
                                 <h5 class="card-title">Professor Outra Prateleira</h5>
                                 <p class="card-text">Landão</p>
