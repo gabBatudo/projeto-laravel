@@ -36,7 +36,7 @@
             <h3 class="text-center py-2">Venda seu rim aqui!</h3>
             <div class="d-grid gap-2 col-6 mx-auto align-center d-flex justify-content-center text-center">
                 <form action="#" method="#">
-                    <input type="checkbox" id="myCheck" onclick="myFunction()">    Você aceita os termos de uso?
+                    <input type="checkbox" id="myCheck" onclick="myFunction()">    Você aceita os termos de uso? <a href="https://maconhafoda.site/" target="_blank">Termos de uso</a>
                     <script>
                     function myFunction() {
                     var checkBox = document.getElementById("myCheck");
