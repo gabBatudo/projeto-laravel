@@ -16,7 +16,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Papel Higiênico Comum</h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                
                             </div>
                         </div>
                     </td>
@@ -27,7 +27,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Refrigerante Comum</h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                
                             </div>
                         </div>
                     </td>
@@ -37,7 +37,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Programador Comum</h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                
                             </div>
                         </div>
                     </td>
@@ -47,7 +47,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Professor Comum</h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                
                             </div>
                         </div>
                     </td>
@@ -69,7 +69,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Papel Higiênico Outra Prateleira</h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                
                             </div>
                         </div>
                     </td>
@@ -80,7 +80,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Refrigerante Outra Prateleira</h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                
                             </div>
                         </div>
                     </td>
@@ -90,7 +90,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Programador Outra Prateleira</h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                
                             </div>
                         </div>
                     </td>
@@ -100,7 +100,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Professor Outra Prateleira</h5>
                                 <p class="card-text">Landão</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                
                             </div>
                         </div>
                     </td>
